@@ -1,3 +1,4 @@
 *
-!R_code/*
+!R_code/
+!R_code/**
 !.gitignore
